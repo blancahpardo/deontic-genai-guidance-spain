@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite them as below."
+type: dataset
+title: "Deontic modality in generative AI guidance from Spanish universities: corpus inventory, annotations, validation data and analysis scripts"
+authors:
+  - family-names: "Hernández Pardo"
+    given-names: "Blanca"
+    orcid: "https://orcid.org/0000-0001-9005-7577"
+    affiliation: "Universidad Pontificia Comillas"
+    email: "bhpardo@comillas.edu"
+license: CC-BY-4.0
+keywords:
+  - generative artificial intelligence
+  - higher education policy
+  - deontic modality
+  - institutional guidelines
+  - corpus linguistics
+  - Spanish

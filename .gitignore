@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+# documentos de las universidades y texto completo: no se redistribuyen (véase README)
+corpus/raw/
+corpus/txt/
+analisis/docs_limpios/
+analisis/unidades.csv
+analisis/unidades_marcadas.csv
+analisis/lotes/

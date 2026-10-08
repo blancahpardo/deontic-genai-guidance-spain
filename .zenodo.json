@@ -1,0 +1,12 @@
+{
+  "upload_type": "dataset",
+  "title": "Deontic modality in generative AI guidance from Spanish universities: corpus inventory, annotations, validation data and analysis scripts",
+  "creators": [
+    {"name": "Hernández Pardo, Blanca", "affiliation": "Universidad Pontificia Comillas", "orcid": "0000-0001-9005-7577"}
+  ],
+  "description": "<p>Data and code for a corpus study of the directives contained in 32 generative AI guidance documents issued by 26 Spanish universities. The repository contains the corpus inventory (with the URL of each document), the eligibility criteria and search log, the annotation codebook, the annotation of every sentence and list item for directive status, deontic force, addressee and domain, the blind expert validation samples, the results tables and figures, and all the scripts needed to reproduce the analysis. The full texts of the documents are not redistributed.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": ["generative artificial intelligence", "higher education policy", "deontic modality", "institutional guidelines", "corpus linguistics", "Spanish"]
+}

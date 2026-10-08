@@ -1,0 +1,100 @@
+codigo,universidad,acronimo,tipo,ccaa,web,anio_creacion
+089,CUNEF Universidad,CUNEF,Privada,Comunidad de Madrid,www.cunef.edu,2019
+087,ESIC Universidad,ESIC,Privada,Comunidad de Madrid,www.esic.edu/university/,2019
+057,IE Universidad,IE,Privada,Comunidad de Castilla y León,www.ie.edu/universidad,1997
+109,IE Universidad Madrid,?,Privada,Comunidad de Madrid,?,2025
+061,Mondragón Unibertsitatea,UMON,Privada,Comunidad Autónoma del País Vasco,www.mondragon.edu,1997
+074,Universidad a Distancia de Madrid,UDIMA,Privada,Comunidad de Madrid,www.udima.es,2006
+047,Universidad Alfonso X El Sabio,UAX,Privada,Comunidad de Madrid,www.uax.es,1993
+106,Universidad Alfonso X el Sabio Mare Nostrum,?,Privada,Comunidad Autónoma de Andalucía,29004,2024
+052,Universidad Antonio de Nebrija,UANE,Privada,Comunidad de Madrid,www.nebrija.com,1995
+022,Universidad Autónoma de Barcelona,UAB,Pública,Comunidad Autónoma de Cataluña,www.uab.es,1968
+023,Universidad Autónoma de Madrid,UAM,Pública,Comunidad de Madrid,www.uam.es,1968
+065,Universidad Camilo José Cela,UCJC,Privada,Comunidad de Madrid,www.ucjc.edu,1999
+067,Universidad Cardenal Herrera-CEU,UCH,Privada,Comunidad Valenciana,www.uchceu.es/,1999
+036,Universidad Carlos III de Madrid,UCAR,Pública,Comunidad de Madrid,www.uc3m.es,1989
+072,Universidad Católica de Valencia San Vicente Mártir,UCV,Privada,Comunidad Valenciana,www.ucv.es,2004
+066,Universidad Católica San Antonio,UCAM,Privada,Región de Murcia,www.ucam.edu,1999
+059,Universidad Católica Santa Teresa de Jesús de Ávila,UCAV,Privada,Comunidad de Castilla y León,www.ucavila.es,1998
+102,Universidad CEU Fernando III,UF3,Privada,Comunidad Autónoma de Andalucía,uf3ceu.es,2023
+010,Universidad Complutense de Madrid,UCM,Pública,Comunidad de Madrid,www.ucm.es,1836
+037,Universidad de A Coruña,UDC,Pública,Comunidad Autónoma de Galicia,www.udc.es,1989
+029,Universidad de Alcalá,UAH,Pública,Comunidad de Madrid,www.uah.es,1977
+001,Universidad de Alicante,UA,Pública,Comunidad Valenciana,www.ua.es/,1979
+048,Universidad de Almería,UAL,Pública,Comunidad Autónoma de Andalucía,www.ual.es,1993
+004,Universidad de Barcelona,UBA,Pública,Comunidad Autónoma de Cataluña,www.ub.es,1450
+051,Universidad de Burgos,UBU,Pública,Comunidad de Castilla y León,www.ubu.es,1994
+005,Universidad de Cádiz,UCA,Pública,Comunidad Autónoma de Andalucía,www.uca.es,1979
+016,Universidad de Cantabria,UCN,Pública,Comunidad Autónoma de Cantabria,www.unican.es,1972
+034,Universidad de Castilla-La Mancha,UCLM,Pública,Comunidad Autónoma de Castilla-La Mancha,www.uclm.es,1982
+006,Universidad de Córdoba,UCO,Pública,Comunidad Autónoma de Andalucía,www.uco.es,1972
+030,Universidad de Deusto,UDE,Privada,Comunidad Autónoma del País Vasco,www.deusto.es,1886
+100,"Universidad de Diseño, Innovación y Tecnología (UDIT)",UDIT,Privada,Comunidad de Madrid,udit.es,2022
+002,Universidad de Extremadura,UEX,Pública,Comunidad Autónoma de Extremadura,www.unex.es,1973
+008,Universidad de Granada,UGR,Pública,Comunidad Autónoma de Andalucía,www.ugr.es,1531
+049,Universidad de Huelva,UHU,Pública,Comunidad Autónoma de Andalucía,www.uhu.es,1993
+050,Universidad de Jaén,UJA,Pública,Comunidad Autónoma de Andalucía,www.ujaen.es,1993
+015,Universidad de La Laguna,ULL,Pública,Comunidad Autónoma de Canarias,www.ull.es,1792
+045,Universidad de La Rioja,UR,Pública,Comunidad Autónoma de la Rioja,www.unirioja.es,1992
+090,Universidad de las Hespérides,.h,Privada,Comunidad Autónoma de Canarias,hesperides.edu.es/,2019
+026,Universidad de Las Palmas de Gran Canaria,UPGC,Pública,Comunidad Autónoma de Canarias,www.ulpgc.es,1989
+009,Universidad de León,ULE,Pública,Comunidad de Castilla y León,www.unileon.es,1979
+044,Universidad de Lleida,UDL,Pública,Comunidad Autónoma de Cataluña,www.udl.es/ca/es/,1992
+011,Universidad de Málaga,UMA,Pública,Comunidad Autónoma de Andalucía,www.uma.es,1972
+110,Universidad de Mallorca,?,Privada,Comunidad Autónoma de las Illes Balears,?,2026
+012,Universidad de Murcia,UMU,Pública,Región de Murcia,www.um.es,1272
+031,Universidad de Navarra,UN,Privada,Comunidad Foral de Navarra,www.unav.es,1952
+013,Universidad de Oviedo,UOV,Pública,Principado de Asturias,www.uniovi.es,1608
+014,Universidad de Salamanca,USAL,Pública,Comunidad de Castilla y León,www.usal.es,1218
+007,Universidad de Santiago de Compostela,USC,Pública,Comunidad Autónoma de Galicia,www.usc.es,1504
+017,Universidad de Sevilla,USE,Pública,Comunidad Autónoma de Andalucía,www.us.es,1505
+019,Universidad de Valladolid,UVA,Pública,Comunidad de Castilla y León,?,1241
+060,Universidad de Vic-Universidad Central de Catalunya,UVIC,Privada,Comunidad Autónoma de Cataluña,www.uvic-ucc.cat/es,1997
+038,Universidad de Vigo,UVI,Pública,Comunidad Autónoma de Galicia,www.uvigo.es,1989
+021,Universidad de Zaragoza,UZA,Pública,Comunidad Autónoma de Aragón,?,1474
+085,Universidad del Atlántico Medio,UNAM,Privada,Comunidad Autónoma de Canarias,www.universidadatlanticomedio.es,2015
+020,Universidad del País Vasco/Euskal Herriko Unibertsitatea,UPV,Pública,Comunidad Autónoma del País Vasco,www.ehu.es,1968
+098,Universidad Euneiz,?,Privada,Comunidad Autónoma del País Vasco,www.euneiz.com,2021
+107,Universidad Europea de Andalucía,?,Privada,Comunidad Autónoma de Andalucía,?,2024
+079,Universidad Europea de Canarias,UEC,Privada,Comunidad Autónoma de Canarias,canarias.universidadeuropea.es/,2010
+053,Universidad Europea de Madrid,UEM,Privada,Comunidad de Madrid,madrid.universidadeuropea.es/,1995
+082,Universidad Europea de Valencia,UEV,Privada,Comunidad Valenciana,valencia.universidadeuropea.es/,2012
+083,Universidad Europea del Atlántico,UA,Privada,Comunidad Autónoma de Cantabria,www.uneatlantico.es,2013
+069,Universidad Europea Miguel de Cervantes,UEMC,Privada,Comunidad de Castilla y León,www.uemc.es,2002
+084,Universidad Fernando Pessoa-Canarias (UFP-C),UFPC,Privada,Comunidad Autónoma de Canarias,www.ufpcanarias.org,2014
+068,Universidad Francisco de Vitoria,UFV,Privada,Comunidad de Madrid,www.ufv.es,2001
+097,Universidad Intercontinental de la Empresa,UIE,Privada,Comunidad Autónoma de Galicia,uie.edu,2021
+063,Universidad Internacional de Andalucía,UNIA,Pública,Comunidad Autónoma de Andalucía,?,2013
+094,Universidad Internacional de la Empresa,UNIE,Privada,Comunidad de Madrid,www.universidadunie.com,2020
+077,Universidad Internacional de La Rioja,UNIR,Privada,Comunidad Autónoma de la Rioja,www.unir.net,2009
+080,Universidad Internacional Isabel I de Castilla,UI1,Privada,Comunidad de Castilla y León,www.ui1.es/,2011
+071,Universidad Internacional Menéndez Pelayo,UIMP,Pública,Comunidad de Madrid,www.uimp.es,1945
+108,Universidad Internacional para el Desarrollo UNINDE,UNINDE,Privada,Comunidad Autónoma de Extremadura,uninde.es/,2025
+088,Universidad Internacional Villanueva,UV,Privada,Comunidad de Madrid,www.villanueva.edu,2019
+040,Universidad Jaume I de Castellón,UJI,Pública,Comunidad Valenciana,www.uji.es,1991
+081,Universidad Loyola Andalucía,ULA,Privada,Comunidad Autónoma de Andalucía,www.uloyola.es,2011
+055,Universidad Miguel Hernández de Elche,UMH,Pública,Comunidad Valenciana,www.umh.es,1996
+028,Universidad Nacional de Educación a Distancia,UNED,Pública,Comunidad de Madrid,www.uned.es,1972
+058,Universidad Pablo de Olavide,UPO,Pública,Comunidad Autónoma de Andalucía,www.upo.es,1997
+064,Universidad Politécnica de Cartagena,UPCT,Pública,Región de Murcia,www.upct.es,1998
+024,Universidad Politécnica de Catalunya,UPC,Pública,Comunidad Autónoma de Cataluña,www.upc.es,1971
+025,Universidad Politécnica de Madrid,UPM,Pública,Comunidad de Madrid,www.upm.es,1971
+039,Universidad Pompeu Fabra,UPF,Pública,Comunidad Autónoma de Cataluña,www.upf.edu,1990
+033,Universidad Pontificia Comillas,COMILLAS,Privada,Comunidad de Madrid,www.upcomillas.es,1890
+032,Universidad Pontificia de Salamanca,UPSA,Privada,Comunidad de Castilla y León,www.upsa.es,1940
+035,Universidad Pública de Navarra,UPNA,Pública,Comunidad Foral de Navarra,www.unavarra.es,1987
+041,Universidad Ramón Llull,URLL,Privada,Comunidad Autónoma de Cataluña,www.url.edu,1991
+056,Universidad Rey Juan Carlos,URJC,Pública,Comunidad de Madrid,www.urjc.es,1996
+042,Universidad Rovira i Virgili,URV,Pública,Comunidad Autónoma de Cataluña,www.urv.cat/ca,1992
+073,Universidad San Jorge,USJ,Privada,Comunidad Autónoma de Aragón,www.usj.es,2005
+046,Universidad San Pablo-CEU,UCEU,Privada,Comunidad de Madrid,www.uspceu.com,1993
+103,Universidad Tecnológica Atlántico-Mediterráneo,UTAMED,Privada,Comunidad Autónoma de Andalucía,utamed.es/,2023
+104,Universidad Tecnológica de las Islas Canarias,?,Privada,Comunidad Autónoma de Canarias,?,2024
+070,Universitat Abat Oliba CEU,UAO,Privada,Comunidad Autónoma de Cataluña,www.uao.es,2003
+043,Universitat de Girona,UDG,Pública,Comunidad Autónoma de Cataluña,?,1992
+003,Universitat de les Illes Balears,UIB,Pública,Comunidad Autónoma de las Illes Balears,www.uib.es/,1978
+018,Universitat de València (Estudi General),UV,Pública,Comunidad Valenciana,www.uv.es,1502
+062,Universitat Internacional de Catalunya,UIC,Privada,Comunidad Autónoma de Cataluña,www.uic.es,1997
+076,Universitat Internacional Valenciana,VIU,Privada,Comunidad Valenciana,www.viu.es,2008
+054,Universitat Oberta de Catalunya,UOC,Privada,Comunidad Autónoma de Cataluña,www.uoc.es,1995
+027,Universitat Politècnica de València,UPV,Pública,Comunidad Valenciana,www.upv.es,1971
