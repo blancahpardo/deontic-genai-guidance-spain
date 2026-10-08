@@ -1,5 +1,7 @@
 # Deontic modality in generative AI guidance from Spanish universities
 
+[![DOI](https://zenodo.org/badge/1410427162.svg)](https://doi.org/10.5281/zenodo.23242833)
+
 Data and code for a corpus study of how Spanish universities regulate the use of generative artificial
 intelligence (GenAI) through the language of their institutional guidance. The study analyses 32 documents
 issued by 26 universities (120,225 words; 5,317 sentences and list items) and annotates every unit for
@@ -95,5 +97,8 @@ by either licence; see `LICENSE-DATA.md`.
 
 ## How to cite
 
-Use the citation provided by Zenodo for the version you consulted (DOI on the Zenodo record), or the
-metadata in `CITATION.cff`.
+Hernández Pardo, B. (2026). *Deontic modality in generative AI guidance from Spanish universities: Corpus inventory,
+annotations, validation data and analysis scripts* (Version 1.0.0) [Data set]. Zenodo.
+https://doi.org/10.5281/zenodo.23242834
+
+The DOI [10.5281/zenodo.23242833](https://doi.org/10.5281/zenodo.23242833) always points to the latest version.
