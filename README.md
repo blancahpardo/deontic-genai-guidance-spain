@@ -3,9 +3,9 @@
 [![DOI](https://zenodo.org/badge/1410427162.svg)](https://doi.org/10.5281/zenodo.23242833)
 
 Data and code for a corpus study of how Spanish universities regulate the use of generative artificial
-intelligence (GenAI) through the language of their institutional guidance. The study analyses 32 documents
-issued by 26 universities (120,225 words; 5,317 sentences and list items) and annotates every unit for
-directive status, deontic force, addressee and domain. It identifies 1,793 directives.
+intelligence (GenAI) through the language of their institutional guidance. The study analyses 37 documents
+issued by 29 universities (141,749 words; 6,409 sentences and list items) and annotates every unit for
+directive status, deontic force, addressee and domain. It identifies 2,011 directives.
 
 Author: Blanca Hernández Pardo, Universidad Pontificia Comillas
 ([ORCID 0000-0001-9005-7577](https://orcid.org/0000-0001-9005-7577)) · bhpardo@comillas.edu
@@ -14,7 +14,7 @@ Author: Blanca Hernández Pardo, Universidad Pontificia Comillas
 
 | Folder / file | Content |
 |---|---|
-| `corpus/inventario.csv` | The 32 documents: university, ownership, region, title, issuing body, date, addressee, genre, format and URL |
+| `corpus/inventario.csv` | The 37 documents: university, ownership, region, title, issuing body, date, addressee, genre, format and URL |
 | `corpus/criterios_elegibilidad.md` | Sampling frame and the five eligibility criteria (in Spanish) |
 | `corpus/candidatos_log.md` | Search log: every candidate document found, with its URL and the decision taken (in Spanish) |
 | `corpus/ruct_universidades.csv` | Sampling frame: the 99 universities in the Spanish Register of Universities, Centres and Degrees (RUCT) |
@@ -23,7 +23,7 @@ Author: Blanca Hernández Pardo, Universidad Pontificia Comillas
 | `analisis/libro_de_codigos.md` | Annotation codebook: variables, categories and the 36 decision rules (in Spanish) |
 | `analisis/01_…07_*.py` | Cleaning and segmentation, candidate filter, analysis, figures, validation samples, Cohen's κ, robustness checks |
 | `analisis/anot/` | Annotation of every unit, in batches (see below) |
-| `analisis/resultados/` | Results tables; `directivas.csv` lists the 1,793 directives with their text and all variables |
+| `analisis/resultados/` | Results tables; `directivas.csv` lists the 2,011 directives with their text and all variables |
 | `validacion/` | Blind expert validation: annotation instructions, samples with the expert labels, and sample keys |
 | `figuras/` | Figures 1 and 2 |
 
@@ -43,6 +43,8 @@ one batch, the later batch prevails.
 - `lote_26_correcciones`: corrections after the codebook was revised.
 - `lote_27`–`lote_52`: every unit rejected by the filter (exhaustive annotation).
 - `lote_53_muestra_nc_BHP`: the expert labels adopted for the 100 rejected units of the first validation sample.
+- `lote_54`–`lote_64`: every sentence of the five documents added after the final review of the search log (D33–D37).
+- `lote_65`: headings of those documents that carry a directive (for instance, the ten precepts of D33).
 
 ### Validation
 
@@ -52,7 +54,8 @@ one batch, the later batch prevails.
 | Validation sample (`muestra_validacion_ronda2_BHP.xlsx`) | 306 candidates + 100 rejected units | DIR .81 · FUERZA .96 · DEST .91 · ÁMBITO .74 |
 | Check of the exhaustive annotation (`comprobacion_no_candidatas_BHP.xlsx`) | 150 rejected units | DIR .87 · FUERZA .76 · DEST .90 · ÁMBITO .74 |
 
-The expert annotated blind, without access to the model's labels. The column of the expert's free-text comments
+The expert annotated blind, without access to the model's labels. Documents D33–D37 were added after both samples
+had been drawn and are not represented in them. The column of the expert's free-text comments
 has been left empty in the published spreadsheets; the labels are complete. `analisis/06_kappa.py` recomputes the
 figures from the spreadsheets and the keys.
 
@@ -98,7 +101,7 @@ by either licence; see `LICENSE-DATA.md`.
 ## How to cite
 
 Hernández Pardo, B. (2026). *Deontic modality in generative AI guidance from Spanish universities: Corpus inventory,
-annotations, validation data and analysis scripts* (Version 1.0.0) [Data set]. Zenodo.
-https://doi.org/10.5281/zenodo.23242834
+annotations, validation data and analysis scripts* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23242833
 
-The DOI [10.5281/zenodo.23242833](https://doi.org/10.5281/zenodo.23242833) always points to the latest version.
+This DOI always resolves to the latest version; each version has its own DOI on the Zenodo record. Version 1.0.0
+(32 documents) is https://doi.org/10.5281/zenodo.23242834; version 1.1.0 adds the five documents D33–D37.

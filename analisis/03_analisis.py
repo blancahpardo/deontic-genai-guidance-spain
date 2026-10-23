@@ -126,6 +126,11 @@ FORMA_MANUAL.update({
     'D01-0106': 'Verbo realizativo',
     'D23-0230': 'Verbo realizativo',
     'D20-0199': 'Verbo modal',
+    # documentos añadidos tras la revisión de candidatos (D33-D37)
+    'D33-0005': 'Imperativo/exhortativo', 'D34-0344': 'Infinitivo o elemento de lista',
+    'D34-0347': 'Infinitivo o elemento de lista', 'D34-0348': 'Infinitivo o elemento de lista',
+    'D34-0413': 'Predicado evaluativo', 'D37-0106': 'Verbo realizativo',
+    'D37-0138': 'Predicado evaluativo', 'D37-0152': 'Predicado evaluativo',
 })
 
 def forma(r):

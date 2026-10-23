@@ -1,10 +1,10 @@
 FORMA,COMP,OBL,PERM,PROH,REC
-Compromiso institucional,75,0,0,0,0
-Estatus (permitido/prohibido),0,7,6,30,17
-Imperativo/exhortativo,0,10,5,25,226
-Infinitivo o elemento de lista,0,23,26,39,352
-Otra,0,2,0,1,8
-Predicado evaluativo,0,55,0,2,146
+Compromiso institucional,85,0,0,0,0
+Estatus (permitido/prohibido),0,11,6,30,18
+Imperativo/exhortativo,0,11,5,25,239
+Infinitivo o elemento de lista,0,32,28,39,361
+Otra,0,2,0,1,14
+Predicado evaluativo,0,83,0,3,167
 Sanción,0,0,0,10,0
-Verbo modal,0,307,102,58,155
-Verbo realizativo,0,12,8,3,83
+Verbo modal,0,364,108,64,163
+Verbo realizativo,0,23,14,11,94
