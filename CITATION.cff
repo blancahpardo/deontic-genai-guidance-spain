@@ -3,7 +3,7 @@ message: "If you use these data or scripts, please cite them as below."
 type: dataset
 version: 1.1.1
 date-released: 2026-10-27
-title: "What Spanish universities tell students and teachers to do with generative AI: corpus inventory, annotations, validation data and analysis scripts"
+title: "Deontic force and addressees in Spanish university guidance on generative AI: corpus inventory, annotations, validation data and analysis scripts"
 authors:
   - family-names: "Hernández Pardo"
     given-names: "Blanca"

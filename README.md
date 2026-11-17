@@ -1,4 +1,4 @@
-# What Spanish universities tell students and teachers to do with generative AI
+# Deontic force and addressees in Spanish university guidance on generative AI
 
 [![DOI](https://zenodo.org/badge/1410427162.svg)](https://doi.org/10.5281/zenodo.23242833)
 
@@ -100,8 +100,8 @@ by either licence; see `LICENSE-DATA.md`.
 
 ## How to cite
 
-Hernández Pardo, B. (2026). *What Spanish universities tell students and teachers to do with generative AI: Corpus inventory,
+Hernández Pardo, B. (2026). *Deontic force and addressees in Spanish university guidance on generative AI: Corpus inventory,
 annotations, validation data and analysis scripts* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23242833
 
 This DOI always resolves to the latest version; each version has its own DOI on the Zenodo record. Version 1.0.0
-(32 documents) is https://doi.org/10.5281/zenodo.23242834; version 1.1.0 adds the five documents D33–D37; version 1.1.1 only changes the title of the record.
+(32 documents) is https://doi.org/10.5281/zenodo.23242834; version 1.1.0 adds the five documents D33–D37. The title of the record was later changed without any change to its content.
